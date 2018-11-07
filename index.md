@@ -8,6 +8,7 @@
 4. [04-Chapter04](hw04)
 5. [05-Chapter05](hw05)
 6. [06-Chapter06](hw06)
+7. [07-Chapter06](hw07)
 
 
 ## 实验与实践
